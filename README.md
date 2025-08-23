@@ -1,5 +1,3 @@
-# During covid is **now**
-
 Hey there stranger! If you're casually using the expression "during covid" then you are propagating a harmful assumption that "covid is over".
 
 ## What to say instead
