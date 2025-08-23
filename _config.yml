@@ -1,0 +1,29 @@
+title: "During COVID is now"
+description: "Resources and information about COVID-19 protection and community support, plus a way to correct folks using the harmful expression 'during COVID'"
+url: "https://duringcovid.com"
+baseurl: ""
+
+# TODO: Iterate on these settings later
+# Jekyll settings
+# markdown: kramdown
+# highlighter: rouge
+# permalink: pretty
+
+# GitHub Pages settings
+# github:
+#   is_project_page: false
+#   is_user_page: true
+
+# Collections
+# collections:
+#   posts:
+#     output: true
+#     permalink: /:collection/:name/
+
+# Defaults
+# defaults:
+#   - scope:
+#       path: ""
+#       type: "posts"
+#     values:
+#       layout: "post"
