@@ -3,11 +3,18 @@ description: "Resources and information about COVID-19 protection and community 
 url: "https://duringcovid.com"
 baseurl: ""
 
-# TODO: Iterate on these settings later
 # Jekyll settings
-# markdown: kramdown
-# highlighter: rouge
-# permalink: pretty
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Use GitHub Pages Primer theme
+remote_theme: pages-themes/primer@v0.6.0
+plugins:
+  - jekyll-remote-theme
+
+# Use README.md as the index page
+include: [README.md]
 
 # GitHub Pages settings
 # github:
